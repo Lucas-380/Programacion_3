@@ -1,0 +1,53 @@
+[
+    {
+        "id": 9612,
+        "nombre": "Lucas",
+        "clave": "123",
+        "mail": "lucas@example.com",
+        "imagen": {
+            "name": "foto1.png",
+            "full_path": ".\/Usuario\/Fotos\/foto1.png",
+            "type": "image\/png",
+            "size": 22605
+        },
+        "fecha": {
+            "date": "2023-09-24 02:42:31.130243",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        }
+    },
+    {
+        "id": 9613,
+        "nombre": "Ana",
+        "clave": "456",
+        "mail": "ana@example.coms",
+        "imagen": {
+            "name": "foto2.png",
+            "full_path": ".\/Usuario\/Fotos\/foto2.png",
+            "type": "image\/png",
+            "size": 19325
+        },
+        "fecha": {
+            "date": "2023-09-24 02:47:38.984944",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        }
+    },
+    {
+        "id": 9614,
+        "nombre": "Pedro",
+        "clave": "789",
+        "mail": "pedro@example.coms",
+        "imagen": {
+            "name": "foto3.png",
+            "full_path": ".\/Usuario\/Fotos\/foto3.png",
+            "type": "image\/png",
+            "size": 70662
+        },
+        "fecha": {
+            "date": "2023-09-24 02:47:58.293480",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        }
+    }
+]

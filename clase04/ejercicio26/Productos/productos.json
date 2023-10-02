@@ -1,0 +1,26 @@
+[
+    {
+        "codigoDeBarra": "123456",
+        "nombre": "Oreo",
+        "tipo": "Comestible",
+        "stock": 55,
+        "precio": "500",
+        "id": 2210
+    },
+    {
+        "codigoDeBarra": "789456",
+        "nombre": "Pepitos",
+        "tipo": "Comestible",
+        "stock": 30,
+        "precio": "750",
+        "id": 2211
+    },
+    {
+        "codigoDeBarra": "111222",
+        "nombre": "Don Satur",
+        "tipo": "Comestible",
+        "stock": 15,
+        "precio": "200",
+        "id": 2212
+    }
+]
